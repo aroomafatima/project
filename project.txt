@@ -3,4 +3,4 @@ we are learning git
 we are creating conflict
 merging same line
 we are updating with github
-
+i am trying to learn

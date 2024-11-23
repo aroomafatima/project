@@ -1,2 +1,4 @@
 i am Arooma fatima khan
 we are learning git
+we are creating conflict
+mergibg same line
